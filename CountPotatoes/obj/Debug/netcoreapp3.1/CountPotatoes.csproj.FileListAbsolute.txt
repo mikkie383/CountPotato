@@ -1,0 +1,13 @@
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.exe
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.deps.json
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.runtimeconfig.json
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.runtimeconfig.dev.json
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.dll
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\bin\Debug\netcoreapp3.1\CountPotatoes.pdb
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.csprojAssemblyReference.cache
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.AssemblyInfoInputs.cache
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.AssemblyInfo.cs
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.csproj.CoreCompileInputs.cache
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.dll
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.pdb
+C:\Users\cdes5\source\repos\CountPotatoes\CountPotatoes\obj\Debug\netcoreapp3.1\CountPotatoes.genruntimeconfig.cache
